@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="sd_card_does_not_exist">SD卡不存在不能拍照</string>
+	<string name="gallery">手機相冊</string>
+	<string name="all_photo">全部圖片</string>
+	<string name="selected">已選(%1$s/%2$s)</string>
+	<string name="folder_photo_size">共 %1$ d張</string>
+	<string name="photo_edit">圖片編輯</string>
+	<string name="photo_crop">圖片裁剪</string>
+	<string name="crop_suc">裁剪成功</string>
+	<string name="crop_fail">裁剪失敗</string>
+	<string name="no_photo">無圖片</string>
+	<string name="waiting">請稍等...</string>
+	<string name="select_max_tips">已達到最大選擇數量</string>
+	<string name="empty_sdcard">沒有SD卡</string>
+	<string name="open_gallery_fail">相冊初始化失敗 ！</string>
+	<string name="take_photo_fail">拍照失敗</string>
+	<string name="saving">正在保存照片...</string>
+	<string name="please_reopen_gf">請重新打開圖片瀏覽器</string>
+	<string name="edit_letoff_photo_format">該圖片格式不支援此操作</string>
+	<string name="photo_list_empty">獲取圖片失敗 ！</string>
+	<string name="preview">預覽</string>
+	<string name="permissions_tips_gallery">這個App請求訪問你的相冊</string>
+	<string name="permissions_denied_tips">無法獲取圖片</string>
+	<string name="maxsize_zero_tip">maxsize 應該大於0</string>
+
+</resources>
